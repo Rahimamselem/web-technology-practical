@@ -1,0 +1,48 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <form>
+        <fieldset>
+            <legend>Academic information</legend>
+           degree:
+           <select>
+               <option>master of business administration</option>
+               <option>information tech</option>
+               <option>computer sciences</option>
+               <option>library</option>
+           </select><br><br>
+           StudentID <input type="text"><br><br>
+        </fieldset><br><br>
+           <fieldset>
+           <legend>Personal Details</legend>
+        First Name <input type="text"><br><br>
+        Last Name <input type="text"><br><br>
+        Gender: <input type="radio" name="gender">male
+        <input type="radio" name="gender">female <br><br>
+        Email <input type="text">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        </fieldset>
+    </form>
+    </body>
+</html>

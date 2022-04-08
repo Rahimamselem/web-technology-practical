@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	
+	
+	<title></title>
+
+
+<body>
+	<center>To illusterate text formating tags</center> 
+		<hr>
+		 <marquee>This is an altimate marquee text</marquee><br> 
+		 <center>This is <u> underlined</u>
+		  This is<b> bold</b><br>
+		  	This is <em> imphasized</em><br>
+		  	This is <strong>Srtong text</strong><br>
+		  	This is <del>striked text</del><br>
+		  	This is <code>computer code</code><br>
+		  	This is <sup>superscript </sup>code<br>
+		  	This is <sub>subscript</sub> code<br>
+		  	This is big text<br>
+		  	This is <small>small text</small><br>
+		  </center>
+		  <br>
+		  <br>
+
+		  <center>To illusterate nested and definition list tag </center> 
+		<hr>
+		<br>
+		<strong>An orderd nested list:</strong>
+		<ol>
+			<li>coffe</li>
+			<li>tee</li>
+			<ol type="a">
+			<li>Black tee</li>
+			<li> Green tee</li>
+			<ol type="a">
+				
+			
+		</ol>
+		<ol type="i">
+			<li>china</li>
+			<li> africa</li>
+		</ol>
+	
+	
+</ol>
+<li>milk</li>
+</ol>
+<strong> A Defintion list:</strong><br>
+<strong>Bangalore</strong><br>
+<p>-Capital city of Kamataka</p>
+mumbai<br>
+<p>-capital city of maharashtra</p>
+<br>
+<br>
+<table style="width:50%" border="1">
+	<tr>
+  
+    <td colspan="4">Table hadiing cell spaning four collums</td>
+  </tr>
+  <tr>
+    <td>normal cell</td>
+    <td colspan="2">cell spaning  2 collumn</td>
+    <td>Normal cell</td>
+  </tr>
+  <tr>
+    <td  style="background-color:grey;"rowspan="3" b>cell spaning 3 <br>rows with a grey (us spelling) <br>background<br></td>
+    <td>normal cell</td>
+    <td>normal cell</td>
+       <td>normal cell</td>
+  </tr>
+  <tr></tr>
+  
+  	
+ 
+</table>
+
+
+
+		
+		
+
+
+
+
+
+
+		
+	
+		
+
+
+
+</body>
+
+</html> 
